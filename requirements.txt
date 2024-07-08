@@ -1,0 +1,5 @@
+Flask
+colorama
+termcolor
+contextlib
+pexpect
